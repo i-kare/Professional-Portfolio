@@ -6,7 +6,7 @@ body {
   font-family: 'Times New Roman', Times, serif;
   font-size: medium;
   font-color: white;
-  margin: 0; 
+  margin: 0;
 }
 
 main {
@@ -15,7 +15,7 @@ main {
   flex-wrap: wrap;
   margin-top: 2%;
 
-  
+
 }
 
 .main-header {
@@ -28,13 +28,14 @@ main {
   color: #fff;
 
 }
+
 .sub-header {
-  display: flex; 
+  display: flex;
   flex-wrap: wrap;
-  justify-content:inline;
-  padding:30px;
-  background-color:rgb(238, 232, 233);
-  color:rgb(4, 4, 4);
+  justify-content: inline;
+  padding: 30px;
+  background-color: rgb(238, 232, 233);
+  color: rgb(4, 4, 4);
 }
 
 .card {
@@ -55,15 +56,28 @@ main {
   width: 20%;
   min-width: 100px;
 }
-.sub-header img{
+
+.sub-header img {
   width: 20%;
-  min-width:100px;
+  min-width: 100px;
 }
 
 .main-header a {
-   color: rgb(194, 196, 203)
-}
-a{
-  color:rgb(0, 55, 194)
+  color: rgb(194, 196, 203)
 }
 
+a {
+  color: rgb(0, 55, 194)
+}
+
+.works {
+  display: flex;
+}
+
+.about {
+  display: flex;
+}
+
+.contact {
+  display: flex;
+}
