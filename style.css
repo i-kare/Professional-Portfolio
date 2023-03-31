@@ -5,12 +5,10 @@
 body {
   font-family: 'Times New Roman', Times, serif;
   font-size: medium;
-  font-color: white;
+  color: rgb(12, 12, 12);
   margin: 0;
 }
 
-
-}
 
 main {
   display: flexbox;
