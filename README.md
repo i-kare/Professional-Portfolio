@@ -21,9 +21,8 @@ SO THAT I can review samples of their work and assess whether they're a good can
 6.WHEN I resize the page or view the site on various screens and devices THEN I am presented with a responsive layout that adapts to my viewport
 
 
-
 #### Website Link and Screenshot
-![Website Display](/assets/images/screenshot.png)
+<img width="883" alt="Screen Shot 2023-03-30 at 10 23 14 PM 1" src="https://user-images.githubusercontent.com/119103898/229030393-13bff278-9fd9-4175-9b33-4dcc49e22265.png">
 
-Live Link https://i-kare.github.io/BootcampChallenge1/
+Live Link https://i-kare.github.io/Professional-Portfolio/
 
